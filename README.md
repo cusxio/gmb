@@ -39,7 +39,7 @@ $ npm install -g gmb
 
 ## Options
 
-#### LICENSE
+##### LICENSE
 - GNU
 - MIT
 - Apache
