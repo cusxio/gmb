@@ -30,9 +30,20 @@ $ npm install -g gmb
     Generate .travis.yml
     $ gmb -t
 
+    Generate GNU license
+    $ gmb --license gnu
+
     Generate .eslintrc, .gitignore, .babelrc
     $ gmb -egb
 ```
+
+## Options
+
+#### LICENSE
+- GNU
+- MIT
+- Apache
+- WTFPL
 
 ## Future
 
