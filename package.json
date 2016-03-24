@@ -1,6 +1,6 @@
 {
   "name": "gmb",
-  "version": "0.0.1",
+  "version": "0.1.0",
   "description": "Generate Module Boilerplate",
   "bin": {
     "gmb": "lib/cli.js"
@@ -13,8 +13,8 @@
   },
   "author": "Jonathan Chan",
   "repository": {
-      "type": "git",
-      "url": "https://github.com/cusxio/gmb.git"
+    "type": "git",
+    "url": "https://github.com/cusxio/gmb.git"
   },
   "license": "MIT",
   "files": [
